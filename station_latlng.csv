@@ -1,0 +1,146 @@
+,Station,Lines,Transfers,Location,Opened,Structure,latitude,longitude
+0,O'Hare,Blue,O'Hare: ATS Airport Transit System,O'Hare,"September 3, 1984[12]",Underground,41.973101,-87.9067679
+1,Rosemont,Blue,—,Rosemont,"February 27, 1983[13]",Expressway median,41.995343,-87.7337447
+2,Cumberland,Blue,—,O'Hare,"February 27, 1983[13]",Expressway median,41.973101,-87.9067679
+3,Harlem,Blue,—,Norwood Park,"February 27, 1983[13]",Expressway median,41.727329,-87.616704
+4,Jefferson Park,Blue,Metra: UP-NW,Jefferson Park,"February 1, 1970[14]",Expressway median,41.9697375,-87.7631179
+5,Montrose,Blue,Metra: MD-N (at Mayfair),Irving Park,"February 1, 1970[14]",Expressway median,41.9655913,-87.6667239
+6,Irving Park,Blue,Metra: UP-NW (at Irving Park),Irving Park,"February 1, 1970[14]",Expressway median,41.9561073,-87.6791596
+7,Addison,Blue,—,Avondale / Irving Park,"February 1, 1970[14]",Expressway median,41.947022,-87.6564773
+8,Belmont,Blue,—,Avondale,"February 1, 1970[14]",Underground,41.9389208,-87.711168
+9,Logan Square,Blue,—,Logan Square,"May 25, 1895[15]",Underground,41.9285683,-87.7067931
+10,California,Blue,—,Logan Square,"May 25, 1895",Elevated,41.861876,-87.647786
+11,Western,Blue,—,Logan Square,"May 25, 1895",Elevated,41.8541996,-87.6656086
+12,Damen,Blue,—,Wicker Park,"May 6, 1895[16]",Elevated,41.951758,-87.7107659
+13,Division,Blue,—,Wicker Park / Noble Square,"February 25, 1951[17][18]",Underground,41.905809,-87.672125
+14,Chicago,Blue,—,West Town,"February 25, 1951[17][18]",Underground,41.9000327,-87.6344975
+15,Grand,Blue,—,West Town,"February 25, 1951[17][18]",Underground,41.890808,-87.611113
+16,Clark/Lake[b]  Ⓣ,Blue,Brown Green Orange Pink Purple,The Loop,"February 25, 1951[17][18]",Underground,41.8788844,-87.6271806
+17,Washington Ⓣ,Blue,Red (at Lake),The Loop,"February 25, 1951[17][18]",Underground,41.8788844,-87.6271806
+18,Monroe,Blue,—,The Loop,"February 25, 1951[17][18]",Underground,41.8816094,-87.6294574
+19,Jackson  Ⓣ,Blue,Red (at Jackson) Brown Orange  Pink Purple (at Library),The Loop,"February 25, 1951[17][18]",Underground,41.8788844,-87.6271806
+20,LaSalle,Blue,Metra: RI (at LaSalle Street),The Loop,"February 25, 1951[17][18]",Underground,41.8788844,-87.6271806
+21,Clinton,Blue,Metra: MD-N MD-W NCS BNSF HC SWS (at Union Station),Near West Side,"June 22, 1958[19][20]",Underground,41.8800656,-87.6667624
+22,UIC–Halsted,Blue,—,Greektown,"June 22, 1958[19][20]",Expressway median,41.8784447,-87.6469318
+23,Racine,Blue,—,Near West Side,"June 22, 1958[19][20]",Expressway median,41.8800656,-87.6667624
+24,Illinois Medical District,Blue,—,Near West Side,"June 22, 1958[19][20]",Expressway median,41.8800656,-87.6667624
+25,Western,Blue,—,Near West Side,"June 22, 1958[19][20]",Expressway median,41.8541996,-87.6656086
+26,Kedzie–Homan,Blue,—,East Garfield Park,"June 22, 1958[19][20]",Expressway median,41.8808657,-87.7028328
+27,Pulaski,Blue,—,West Garfield Park,"June 22, 1958[19][20]",Expressway median,41.8600324,-87.7183883
+28,Cicero,Blue,—,Austin,"June 22, 1958[19][20]",Expressway median,41.8865719,-87.7451325
+29,Austin,Blue,—,Oak Park,"March 20, 1960[21][22]",Expressway median,41.8878759,-87.7648508
+30,Oak Park,Blue,—,Oak Park,"March 20, 1960[21][22]",Expressway median,41.8720933,-87.7915719
+31,Harlem,Blue,—,Forest Park,"March 20, 1960[21][22]",Expressway median,41.727329,-87.616704
+32,Forest Park,Blue,—,Forest Park,"March 11, 1905[23] [c]",Elevated,41.727329,-87.616704
+33,Kimball,Brown,—,Albany Park,"December 14, 1907[24]",At-grade,41.9719367,-87.7161739
+34,Kedzie,Brown,—,Albany Park,"December 14, 1907[24]",At-grade,41.8600324,-87.7183883
+35,Francisco,Brown,—,Albany Park,"December 14, 1907",At-grade,41.9719367,-87.7161739
+36,Rockwell,Brown,—,Lincoln Square,"December 14, 1907",At-grade,41.9759898,-87.6896163
+37,Western,Brown,—,Lincoln Square,"May 18, 1907[25]",Elevated,41.8541996,-87.6656086
+38,Damen,Brown,Metra: UP-N (at Ravenswood),Ravenswood,"May 18, 1907[25]",Elevated,41.951758,-87.7107659
+39,Montrose,Brown,—,Ravenswood,"May 18, 1907[25]",Elevated,41.9655913,-87.6667239
+40,Irving Park,Brown,—,North Center,"May 18, 1907[25]",Elevated,41.9561073,-87.6791596
+41,Addison,Brown,—,North Center,"May 18, 1907[25]",Elevated,41.947022,-87.6564773
+42,Paulina,Brown,—,Roscoe Village,"May 18, 1907[25]",Elevated,41.9434029,-87.6791415
+43,Southport,Brown,—,Lake View,"May 18, 1907[25]",Elevated,41.94705,-87.6554288
+44,Belmont  Ⓣ,Brown Purple Red,—,Lake View,"May 31, 1900[5]",Elevated,41.94705,-87.6554288
+45,Wellington,Brown Purple,—,Lake View,"May 31, 1900",Elevated,41.94705,-87.6554288
+46,Diversey,Brown Purple,—,Lincoln Park,"June 9, 1900[26]",Elevated,41.9402976,-87.6381171
+47,Fullerton  Ⓣ,Brown Purple Red,—,Lincoln Park,"May 31, 1900[5]",Elevated,41.9402976,-87.6381171
+48,Armitage,Brown Purple,—,Lincoln Park,"June 9, 1900[26]",Elevated,41.9402976,-87.6381171
+49,Sedgwick,Brown Purple,—,Old Town,"May 31, 1900[5]",Elevated,41.904158,-87.637529
+50,Chicago,Brown Purple,—,Near North Side,"May 31, 1900[5]",Elevated,41.9000327,-87.6344975
+51,Merchandise Mart  Ⓣ,Brown Purple,—,Near North Side,"December 5, 1930[27]",Elevated,41.9000327,-87.6344975
+52,Washington/Wells  Ⓣ,Brown Orange Pink Purple,Metra: UP-N UP-W UP-NW (at Ogilvie),The Loop,"July 17, 1995[28]",Elevated,41.8816094,-87.6294574
+53,Quincy,Brown Orange Pink Purple,Metra: MD-N MD-W NCS BNSF HC SWS (at Union Station),The Loop,"October 3, 1897[29]",Elevated,41.8788844,-87.6271806
+54,LaSalle/Van Buren,Brown Orange Pink Purple,Metra: RI (at LaSalle Street),The Loop,"October 3, 1897[29]",Elevated,41.8816094,-87.6294574
+55,Harold Washington Library – State/Van Buren  Ⓣ,Brown Orange Pink Purple,Blue (at Jackson) Red (at Jackson) Metra: ME (at Van Buren Street)NICTD:  (at Van Buren Street),The Loop,"June 22, 1997[30]",Elevated,41.8788844,-87.6271806
+56,Adams/Wabash Ⓣ,Brown Green Orange Pink Purple,Metra: ME (at Van Buren Street)NICTD:  (at Van Buren Street),The Loop,"November 8, 1896[31]",Elevated,41.8816094,-87.6294574
+57,Washington/​Wabash,Brown Green Orange Pink Purple,Metra: ME (at Millennium Station)NICTD:  (at Millennium Station),The Loop,"August 31, 2017[32]",Elevated,41.8816094,-87.6294574
+58,State/Lake Ⓣ,Brown Green Orange Pink Purple,Red (at Lake),The Loop,"September 22, 1895[33][34]",Elevated,41.8788844,-87.6271806
+59,Clark/Lake[b]  Ⓣ,Brown Green Orange Pink Purple,Blue,The Loop,"September 22, 1895[33][34]",Elevated,41.8788844,-87.6271806
+60,Harlem/Lake,Green,Metra: UP-W (at Oak Park),Oak Park / Forest Park,"October 28, 1962[35][36]",Elevated,41.8720933,-87.7915719
+61,Oak Park,Green,—,Oak Park,"January 25, 1901",Elevated,41.8720933,-87.7915719
+62,Ridgeland,Green,—,Oak Park,"January 25, 1901",Elevated,41.8720933,-87.7915719
+63,Austin,Green,—,Austin,"April 15, 1899[37]",Elevated,41.8878759,-87.7648508
+64,Central,Green,—,Austin,"April 15, 1899[37]",Elevated,42.048102,-87.679284
+65,Laramie,Green,—,Austin,"April 23, 1894[38]",Elevated,41.8878759,-87.7648508
+66,Cicero,Green,—,Austin,"March 3, 1894[39]",Elevated,41.8865719,-87.7451325
+67,Pulaski,Green,—,West Garfield Park,March 1894,Elevated,41.8600324,-87.7183883
+68,Conservatory–Central Park Drive,Green,—,East Garfield Park,"June 30, 2001[40]",Elevated,41.8808657,-87.7028328
+69,Kedzie,Green,—,East Garfield Park,"November 6, 1893[41][42]",Elevated,41.8600324,-87.7183883
+70,California,Green,—,East Garfield Park,"November 6, 1893[41]",Elevated,41.861876,-87.647786
+71,Ashland,Green Pink,—,Near West Side,"November 6, 1893[41][42]",Elevated,41.8316997,-87.6736638
+72,Morgan,Green Pink,—,Near West Side,"November 6, 1893[43]",Elevated,41.8800656,-87.6667624
+73,Clinton  Ⓣ,Green Pink,Metra: UP-N UP-W UP-NW (at Ogilvie),West Loop,"October 16, 1909[44]",Elevated,41.8823318,-87.6385777
+74,Roosevelt  Ⓣ,Green Orange,Red Metra: ME (at Museum Campus/11th Street)NICTD:  (at Museum Campus/11th Street),Near South Side,"June 6, 1892[3]",Elevated,41.8566999,-87.6247738
+75,Cermak–McCormick Place,Green,—,Near South Side,"June 6, 1892",Elevated,41.8566999,-87.6247738
+76,35th–Bronzeville–IIT,Green,Metra: RI (at Jones/Bronzeville),Bronzeville,"June 6, 1892[3]",Elevated,41.8308667,-87.6264399
+77,Indiana,Green,—,Grand Boulevard,"August 15, 1892[45]",Elevated,41.8139226,-87.6172724
+78,43rd,Green,—,Grand Boulevard,"August 15, 1892[45]",Elevated,41.8139226,-87.6172724
+79,47th,Green,—,Grand Boulevard,"August 15, 1892[45]",Elevated,41.8180891,-87.6325508
+80,51st,Green,—,Grand Boulevard / Washington Park,"August 28, 1892[46]",Elevated,41.8139226,-87.6172724
+81,Garfield  Ⓣ,Green,Ashland/63rd     Cottage Grove,Washington Park,"October 12, 1892[47][48]",Elevated,41.7925338,-87.6181052
+82,Halsted,Green,—,Englewood,"December 24, 1906[49]",Elevated,41.8379385,-87.651028
+83,Ashland/63rd,Green,—,West Englewood,"May 6, 1969[50]",Elevated,41.7780891,-87.6667177
+84,King Drive,Green,—,Woodlawn,"May 1, 1893[51][52]",Elevated,41.7794786,-87.599493
+85,Cottage Grove,Green,—,Woodlawn,"April 23, 1893[51]",Elevated,41.7794786,-87.599493
+86,Midway,Orange,—,Garfield Ridge,"October 31, 1993[7]",At-grade,41.8036171,-87.7454886
+87,Pulaski,Orange,—,Archer Heights / West Elsdon,"October 31, 1993[7]",Elevated,41.8600324,-87.7183883
+88,Kedzie,Orange,—,Brighton Park,"October 31, 1993[53]",Elevated,41.8600324,-87.7183883
+89,Western,Orange,—,Brighton Park,"October 31, 1993[7]",Elevated,41.8541996,-87.6656086
+90,35th/Archer,Orange,—,McKinley Park,"October 31, 1993[7]",Elevated,41.8316997,-87.6736638
+91,Ashland,Orange,—,McKinley Park,"October 31, 1993[53]",Elevated,41.8316997,-87.6736638
+92,Halsted,Orange,—,Bridgeport,"October 31, 1993[7]",Elevated,41.8379385,-87.651028
+93,54th/Cermak,Pink,—,Cicero,"August 1, 1912",At-grade,41.8865719,-87.7451325
+94,Cicero,Pink,—,Cicero,"December 16, 1907[54]",At-grade,41.8865719,-87.7451325
+95,Kostner,Pink,—,North Lawndale,"May 22, 1907",At-grade,41.8581513,-87.7138812
+96,Pulaski,Pink,—,North Lawndale,"June 16, 1902[55]",Elevated,41.8600324,-87.7183883
+97,Central Park,Pink,—,North Lawndale,"December 9, 1951[56]",Elevated,41.8581513,-87.7138812
+98,Kedzie,Pink,—,North Lawndale,"March 10, 1902[57]",Elevated,41.8600324,-87.7183883
+99,California,Pink,—,Little Village,"March 10, 1902[57]",Elevated,41.861876,-87.647786
+100,Western,Pink,—,Lower West Side,"September 7, 1896[15]",Elevated,41.8541996,-87.6656086
+101,Damen,Pink,—,Heart of Chicago,"September 7, 1896",Elevated,41.951758,-87.7107659
+102,18th,Pink,—,Pilsen,"April 28, 1896[58]",Elevated,41.8560101,-87.656306
+103,Polk,Pink,—,Illinois Medical District,"April 28, 1896[58]",Elevated,41.8756545,-87.6731273
+104,Linden,Purple,—,Wilmette,"April 2, 1912[59]",At-grade,41.913071,-87.67998
+105,Central,Purple,—,Evanston,"May 16, 1908[a] [60][61]",Elevated,42.048102,-87.679284
+106,Noyes,Purple,—,Evanston,"May 16, 1908[a] [60][61]",Elevated,42.048102,-87.679284
+107,Foster,Purple,—,Evanston,"January 6, 1909[62]",Elevated,42.048102,-87.679284
+108,Davis,Purple,Metra: UP-N (at Evanston Davis Street),Evanston,"May 16, 1908[a] [60][61]",Elevated,42.048102,-87.679284
+109,Dempster,Purple,—,Evanston,"May 16, 1908[a] [60][61]",Elevated,42.048102,-87.679284
+110,Main,Purple,Metra: UP-N (at Evanston Main Street),Evanston,"May 16, 1908[a] [60][61]",Elevated,42.048102,-87.679284
+111,South Boulevard,Purple,—,Evanston,"July 1, 1931[63]",Elevated,42.048102,-87.679284
+112,Howard  Ⓣ,Red Purple  Yellow,—,Rogers Park,"August 23, 1908[62]",Elevated,42.0105314,-87.6707482
+113,Jarvis,Red,—,Rogers Park,"May 16, 1908[a] [64]",Elevated,42.0105314,-87.6707482
+114,Morse,Red,—,Rogers Park,"May 16, 1908[a] [64]",Elevated,42.0105314,-87.6707482
+115,Loyola,Red,—,Rogers Park,"May 16, 1908[a] [64]",Elevated,42.0105314,-87.6707482
+116,Granville,Red,—,Edgewater,"May 16, 1908[a] [64]",Elevated,41.9833689,-87.6639516
+117,Thorndale,Red,—,Edgewater,"February 14, 1915[65]",Elevated,41.9833689,-87.6639516
+118,Bryn Mawr,Red,—,Edgewater,"May 16, 1908[a] [64]",Elevated,41.9833689,-87.6639516
+119,Berwyn,Red,—,Edgewater,1917,Elevated,41.9833689,-87.6639516
+120,Argyle,Red,—,Little Vietnam,"May 16, 1908[a] [64]",Elevated,41.9732234,-87.6587651
+121,Lawrence,Red,—,Uptown,"February 27, 1923[66]",Elevated,41.9666299,-87.6555458
+122,Wilson  Ⓣ,Red Purple,—,Uptown,"May 31, 1900[5]",Elevated,41.9666299,-87.6555458
+123,Sheridan,Red,—,Lake View,"May 31, 1900[5]",Elevated,41.94705,-87.6554288
+124,Addison,Red,—,Wrigleyville,"June 6, 1900[26]",Elevated,41.947022,-87.6564773
+125,North/Clybourn,Red,—,Near North Side,"October 17, 1943[67]",Underground,41.9000327,-87.6344975
+126,Clark/Division,Red,—,Near North Side,"October 17, 1943[67]",Underground,41.9000327,-87.6344975
+127,Chicago,Red,—,Near North Side,"October 17, 1943[67]",Underground,41.9000327,-87.6344975
+128,Grand,Red,—,River North / Streeterville,"October 17, 1943[67]",Underground,41.890808,-87.611113
+129,Lake  Ⓣ,Red,Brown Green Orange Pink Purple (at State/Lake) Blue (at Washington),The Loop,"October 17, 1943[67]",Underground,41.8788844,-87.6271806
+130,Monroe,Red,—,The Loop,"October 17, 1943[67]",Underground,41.8816094,-87.6294574
+131,Jackson  Ⓣ,Red,Blue (at Jackson) Brown  Orange Pink Purple (at Library),The Loop,"October 17, 1943[67]",Underground,41.8788844,-87.6271806
+132,Harrison,Red,—,South Loop,"October 17, 1943[67]",Underground,41.8617846,-87.6261213
+133,Roosevelt  Ⓣ,Red,Green Orange Metra: ME (at Museum Campus/11th Street)NICTD:  (at Museum Campus/11th Street),Near South Side,"October 17, 1943[67]",Underground,41.8566999,-87.6247738
+134,Cermak–Chinatown,Red,—,Chinatown,"September 28, 1969[68]",Elevated,41.8516579,-87.6331383
+135,Sox–35th,Red,Metra: RI (at Jones/Bronzeville),Armour Square,"September 28, 1969[68]",Expressway median,41.8400333,-87.633107
+136,47th,Red,—,Fuller Park,"September 28, 1969[68]",Expressway median,41.8180891,-87.6325508
+137,Garfield,Red,—,Fuller Park,"September 28, 1969[68]",Expressway median,41.8180891,-87.6325508
+138,63rd,Red,—,Englewood,"September 28, 1969[68]",Expressway median,41.7797559,-87.6458836
+139,69th,Red,—,Greater Grand Crossing,"September 28, 1969[68]",Expressway median,41.7668861,-87.6208446
+140,79th,Red,—,Chatham,"September 28, 1969[68]",Expressway median,41.7411454,-87.6125481
+141,87th,Red,—,Chatham,"September 28, 1969[68]",Expressway median,41.7411454,-87.6125481
+142,95th/Dan Ryan,Red,—,Roseland,"September 28, 1969[68]",Expressway median,41.7019787,-87.625881
+143,Dempster–Skokie,Yellow,—,Skokie,"March 28, 1925[69]",At-grade,42.3013868,-87.8713131
+144,Oakton–Skokie,Yellow,—,Skokie,"March 28, 1925[70]",At-grade,42.3064969,-87.8724758
